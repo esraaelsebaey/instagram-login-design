@@ -8,5 +8,4 @@ and aesthetically pleasing interface that users will enjoy interacting with.
 
 https://github.com/user-attachments/assets/3d48efa2-f1c1-4dbf-8609-3b59cb3562ee
 
-# Live Demo: https://esraaelsebaey.github.io/instagram-login-design/
 
